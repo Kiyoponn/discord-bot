@@ -1,6 +1,6 @@
 # Discord Bot
 
-A simple bot:
+A simple bot using [pycord](https://pycord.dev/):
 
-- to mass message users in a server who have DMS role.
-- to purge messages in a channel.
+- to dm users in a server who have DMS role.
+- to purge messages in a channel (limit 100).
